@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Technologies & Tools
-- **Languages:** Python, HTML, CSS, JavaScript  
+- **Languages:** Java, Python, HTML, CSS, JavaScript  
 - **Frameworks / Libraries:** Tkinter, Leaflet.js, ReportLab, BeautifulSoup, SQL.js  
 - **Databases:** SQLite, SQL Server  
 - **GIS:** QGIS, georeferencing, Leaflet Draw  
